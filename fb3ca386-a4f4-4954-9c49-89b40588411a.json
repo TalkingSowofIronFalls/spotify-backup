@@ -1,0 +1,71 @@
+{
+  "albums": [
+    {
+      "title": "The Best Selection Of Ngoc Lan",
+      "artists": [{ "name": "Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1996"
+    },
+    {
+      "title": "Dù Tình Yêu Đã Mất (Asia CD 348)",
+      "artists": [{ "name": "Ho Hoang Yen" }],
+      "album_type": "album",
+      "release_date": "2014-01-24"
+    },
+    {
+      "title": "Chiếc lá cuối cùng",
+      "artists": [{ "name": "Ho Hoang Yen" }],
+      "album_type": "album",
+      "release_date": "2016-01-01"
+    },
+    {
+      "title": "Khúc nhạc tình hồng Lambada 2",
+      "artists": [{ "name": "Ngoc Lan" }, { "name": "Kieu Nga" }],
+      "album_type": "album",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Ngọc Lan 8 - Yêu dấu khôn nguôi",
+      "artists": [{ "name": "Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Khi Ta Yêu Nhau Vol 1",
+      "artists": [{ "name": "Elvis Phuong" }],
+      "album_type": "album",
+      "release_date": "2016-03-07"
+    },
+    {
+      "title": "Con Nho Em, Xin Cu Ve",
+      "artists": [{ "name": "Don Ho, Y Lan & Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1996"
+    },
+    {
+      "title": "Khiêu Vũ Rumba - Cha Cha - Tango",
+      "artists": [{ "name": "Various Artists" }],
+      "album_type": "compilation",
+      "release_date": "1992-06-25"
+    },
+    {
+      "title": "Khieu Vu Rumba Chacha Tango",
+      "artists": [{ "name": "Various Artists" }],
+      "album_type": "compilation",
+      "release_date": "1996"
+    },
+    {
+      "title": "Vũ Khanh - Gọi người yêu dấu",
+      "artists": [{ "name": "Vu Khanh" }],
+      "album_type": "album",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Thà Như Giọt Mưa",
+      "artists": [{ "name": "Vu Khanh" }],
+      "album_type": "album",
+      "release_date": "2018-09-10"
+    }
+  ],
+  "playlists": []
+}
