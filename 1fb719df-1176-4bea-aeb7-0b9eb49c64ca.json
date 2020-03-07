@@ -1,0 +1,2170 @@
+{
+  "albums": [
+    {
+      "title": "Tác Giả Tác Phẩm (Asia CD 075)",
+      "artists": [{ "name": "Lê Uyên Phương" }],
+      "album_type": "album",
+      "release_date": "1995-01-01"
+    },
+    {
+      "title": "Lệ Hoang",
+      "artists": [{ "name": "Thanh Ha" }],
+      "album_type": "album",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Một Thời Yêu Nhau Vol. 1",
+      "artists": [{ "name": "Họa Mi" }],
+      "album_type": "album",
+      "release_date": "2018-08-27"
+    },
+    {
+      "title": "Thu Ca - Tình Khúc Phạm Mạnh Cương",
+      "artists": [{ "name": "Various Artists" }],
+      "album_type": "compilation",
+      "release_date": "2003-01-01"
+    },
+    {
+      "title": "Trên Ngọn Tình Sầu",
+      "artists": [{ "name": "Y Lan" }],
+      "album_type": "album",
+      "release_date": "2018-08-13"
+    },
+    {
+      "title": "Xin Còn Gọi Tên Nhau",
+      "artists": [{ "name": "Thanh Ha" }],
+      "album_type": "album",
+      "release_date": "2018-09-06"
+    },
+    {
+      "title": "Thanh Hà - Vũ Khanh - Chờ em muôn kiếp",
+      "artists": [{ "name": "Vu Khanh" }, { "name": "Thanh Ha" }],
+      "album_type": "album",
+      "release_date": "2000-01-01"
+    },
+    {
+      "title": "The Best Selection Of Ngoc Lan",
+      "artists": [{ "name": "Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1996"
+    },
+    {
+      "title": "Dù Tình Yêu Đã Mất (Asia CD 348)",
+      "artists": [{ "name": "Ho Hoang Yen" }],
+      "album_type": "album",
+      "release_date": "2014-01-24"
+    },
+    {
+      "title": "Chiếc lá cuối cùng",
+      "artists": [{ "name": "Ho Hoang Yen" }],
+      "album_type": "album",
+      "release_date": "2016-01-01"
+    },
+    {
+      "title": "Khúc nhạc tình hồng Lambada 2",
+      "artists": [{ "name": "Ngoc Lan" }, { "name": "Kieu Nga" }],
+      "album_type": "album",
+      "release_date": "1996-01-01"
+    },
+    {
+      "title": "Ngọc Lan 8 - Yêu dấu khôn nguôi",
+      "artists": [{ "name": "Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1992-01-01"
+    },
+    {
+      "title": "Khi Ta Yêu Nhau Vol 1",
+      "artists": [{ "name": "Elvis Phuong" }],
+      "album_type": "album",
+      "release_date": "2016-03-07"
+    },
+    {
+      "title": "Con Nho Em, Xin Cu Ve",
+      "artists": [{ "name": "Don Ho, Y Lan & Ngoc Lan" }],
+      "album_type": "album",
+      "release_date": "1996"
+    },
+    {
+      "title": "Khiêu Vũ Rumba - Cha Cha - Tango",
+      "artists": [{ "name": "Various Artists" }],
+      "album_type": "compilation",
+      "release_date": "1992-06-25"
+    },
+    {
+      "title": "Khieu Vu Rumba Chacha Tango",
+      "artists": [{ "name": "Various Artists" }],
+      "album_type": "compilation",
+      "release_date": "1996"
+    },
+    {
+      "title": "Vũ Khanh - Gọi người yêu dấu",
+      "artists": [{ "name": "Vu Khanh" }],
+      "album_type": "album",
+      "release_date": "1990-01-01"
+    },
+    {
+      "title": "Thà Như Giọt Mưa",
+      "artists": [{ "name": "Vu Khanh" }],
+      "album_type": "album",
+      "release_date": "2018-09-10"
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Tuong Niem",
+      "tracks": [
+        {
+          "name": "Tuong Niem",
+          "album": {
+            "title": "Va Toi Mai Yeu Em",
+            "artists": [{ "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2003"
+          }
+        },
+        {
+          "name": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\"",
+          "album": {
+            "title": "We Love Disney (Deluxe)",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2015-10-30"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2004"
+          }
+        },
+        {
+          "name": "Toi Voi Troi Bo Vo",
+          "album": {
+            "title": "Nho Em Giu Lay Tinh Ta",
+            "artists": [{ "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2004"
+          }
+        },
+        {
+          "name": "Nho Em Giu Lay Tinh Ta",
+          "album": {
+            "title": "Nho Em Giu Lay Tinh Ta",
+            "artists": [{ "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2004"
+          }
+        },
+        {
+          "name": "Nguoi Nhu Co Quen",
+          "album": {
+            "title": "Thang 7 Chua Mua",
+            "artists": [{ "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2005"
+          }
+        },
+        {
+          "name": "Haven't Met You Yet",
+          "album": {
+            "title": "Crazy Love",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2009-10-06"
+          }
+        },
+        {
+          "name": "Holly Jolly Christmas",
+          "album": {
+            "title": "Christmas (Deluxe Special Edition)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2012-11-09"
+          }
+        },
+        {
+          "name": "All I Want for Christmas Is You",
+          "album": {
+            "title": "Christmas (Deluxe Special Edition)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2012-11-09"
+          }
+        },
+        {
+          "name": "To Be Loved",
+          "album": {
+            "title": "To Be Loved",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2013-04-11"
+          }
+        },
+        {
+          "name": "Be My Baby",
+          "album": {
+            "title": "To Be Loved (Deluxe)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2013-04-15"
+          }
+        },
+        {
+          "name": "Who's Lovin' You",
+          "album": {
+            "title": "To Be Loved",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2013-04-11"
+          }
+        },
+        {
+          "name": "Me and Mrs. Jones",
+          "album": {
+            "title": "Call Me Irresponsible (Standard Edition)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2007-04-30"
+          }
+        },
+        {
+          "name": "Mot thuo yeu nguoi",
+          "album": {
+            "title": "Tinh ca Viet Nam",
+            "artists": [{ "name": "Tinh ca Viet Nam" }],
+            "album_type": "album",
+            "release_date": "2011-11-25"
+          }
+        },
+        {
+          "name": "Tình Hờ",
+          "album": {
+            "title": "Tinh Ho",
+            "artists": [{ "name": "Nguyen Khang" }],
+            "album_type": "album",
+            "release_date": "2014-08-08"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2011-09-11"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2011-09-11"
+          }
+        },
+        {
+          "name": "Fly Me To The Moon - Remastered",
+          "album": {
+            "title": "Ultimate Sinatra",
+            "artists": [{ "name": "Frank Sinatra" }],
+            "album_type": "album",
+            "release_date": "2015-04-21"
+          }
+        },
+        {
+          "name": "Mambo Italiano",
+          "album": {
+            "title": "Dino The Essential Dean Martin",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "album",
+            "release_date": "2013-12-31"
+          }
+        },
+        {
+          "name": "Everybody Loves Somebody",
+          "album": {
+            "title": "The Reprise Years",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "compilation",
+            "release_date": "2013-11-19"
+          }
+        },
+        {
+          "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+          "album": {
+            "title": "Amore",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "album",
+            "release_date": "2009-01-01"
+          }
+        },
+        {
+          "name": "You Belong To Me",
+          "album": {
+            "title": "Dino The Essential Dean Martin",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "album",
+            "release_date": "2013-12-31"
+          }
+        },
+        {
+          "name": "That's Amore - Remastered",
+          "album": {
+            "title": "Dino The Essential Dean Martin",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "album",
+            "release_date": "2013-12-31"
+          }
+        },
+        {
+          "name": "Twenty-Three",
+          "album": {
+            "title": "CHAT-SHIRE",
+            "artists": [{ "name": "IU" }],
+            "album_type": "album",
+            "release_date": "2015-10-23"
+          }
+        },
+        {
+          "name": "Tinh Cam",
+          "album": {
+            "title": "Dem Trang Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2007"
+          }
+        },
+        {
+          "name": "Nobody But Me",
+          "album": {
+            "title": "Nobody But Me",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "single",
+            "release_date": "2016-08-19"
+          }
+        },
+        {
+          "name": "Santa Baby",
+          "album": {
+            "title": "The Essential Eartha Kitt",
+            "artists": [{ "name": "Eartha Kitt" }],
+            "album_type": "album",
+            "release_date": "2011-03-15"
+          }
+        },
+        {
+          "name": "I'm Your Man",
+          "album": {
+            "title": "Call Me Irresponsible (Standard Edition)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2007-04-30"
+          }
+        },
+        {
+          "name": "My Kind of Girl",
+          "album": {
+            "title": "My Kind of Girl",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "single",
+            "release_date": "2016-08-26"
+          }
+        },
+        {
+          "name": "Rise",
+          "album": {
+            "title": "Rise",
+            "artists": [{ "name": "Katy Perry" }],
+            "album_type": "single",
+            "release_date": "2016-07-15"
+          }
+        },
+        {
+          "name": "On an Evening in Roma (Sott'er Celo de Roma)",
+          "album": {
+            "title": "On an Evening in Roma (Sott'er Celo de Roma)",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "single",
+            "release_date": "2016-09-23"
+          }
+        },
+        {
+          "name": "I Believe in You",
+          "album": {
+            "title": "I Believe in You",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "single",
+            "release_date": "2016-09-02"
+          }
+        },
+        {
+          "name": "Let It Snow! Let It Snow! Let It Snow!",
+          "album": {
+            "title": "A Winter Romance",
+            "artists": [{ "name": "Dean Martin" }],
+            "album_type": "album",
+            "release_date": "1959-01-01"
+          }
+        },
+        {
+          "name": "Perfect",
+          "album": {
+            "title": "Revival (Deluxe)",
+            "artists": [{ "name": "Selena Gomez" }],
+            "album_type": "album",
+            "release_date": "2015-10-09"
+          }
+        },
+        {
+          "name": "Good For You",
+          "album": {
+            "title": "Revival (Deluxe)",
+            "artists": [{ "name": "Selena Gomez" }],
+            "album_type": "album",
+            "release_date": "2015-10-09"
+          }
+        },
+        {
+          "name": "We Don't Talk Anymore",
+          "album": {
+            "title": "Nine Track Mind",
+            "artists": [{ "name": "Charlie Puth" }],
+            "album_type": "album",
+            "release_date": "2016-01-29"
+          }
+        },
+        {
+          "name": "Sober",
+          "album": {
+            "title": "Revival (Deluxe)",
+            "artists": [{ "name": "Selena Gomez" }],
+            "album_type": "album",
+            "release_date": "2015-10-09"
+          }
+        },
+        {
+          "name": "Ain't No Grave",
+          "album": {
+            "title": "American VI: Ain't No Grave",
+            "artists": [{ "name": "Johnny Cash" }],
+            "album_type": "album",
+            "release_date": "2010-01-01"
+          }
+        },
+        {
+          "name": "Take Me Out",
+          "album": {
+            "title": "Franz Ferdinand",
+            "artists": [{ "name": "Franz Ferdinand" }],
+            "album_type": "album",
+            "release_date": "2004"
+          }
+        },
+        {
+          "name": "L O V E",
+          "album": {
+            "title": "Music From And Inspired By The Motion Picture Tyler Perry's Why Did I Get Married?",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2007-10-01"
+          }
+        },
+        {
+          "name": "Lk Duc Huy",
+          "album": {
+            "title": "Doi da Vang - Nhung Tinh Khuc Vuot Thoi Gian",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2010-08-14"
+          }
+        },
+        {
+          "name": "Nguoi Tinh Tram Nam",
+          "album": {
+            "title": "Dan Ba 1",
+            "artists": [{ "name": "Elvis Phuong" }],
+            "album_type": "album",
+            "release_date": "1994"
+          }
+        },
+        {
+          "name": "Born to Love U",
+          "album": {
+            "title": "Empire: Original Soundtrack, Season 2 Volume 1 (Deluxe)",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "album",
+            "release_date": "2015-11-20"
+          }
+        },
+        {
+          "name": "Mimosa",
+          "album": {
+            "title": "Empire: The Complete Season 2",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "album",
+            "release_date": "2016-07-08"
+          }
+        },
+        {
+          "name": "Get No Better (2.0)",
+          "album": {
+            "title": "Empire: The Complete Season 2",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "album",
+            "release_date": "2016-07-08"
+          }
+        },
+        {
+          "name": "Conqueror (feat. Estelle and Jussie Smollett)",
+          "album": {
+            "title": "Original Soundtrack from Season 1 of Empire (Deluxe)",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "album",
+            "release_date": "2015-03-09"
+          }
+        },
+        {
+          "name": "Snitch Bitch",
+          "album": {
+            "title": "Empire: The Complete Season 2",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "album",
+            "release_date": "2016-07-08"
+          }
+        },
+        {
+          "name": "Can't Buy Me Love",
+          "album": {
+            "title": "It's Time",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2005-02-07"
+          }
+        },
+        {
+          "name": "Moondance",
+          "album": {
+            "title": "Michael Bublé",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2003"
+          }
+        },
+        {
+          "name": "Bésame Mucho (feat. Michael Bublé)",
+          "album": {
+            "title": "Habítame Siempre (Bonus Tracks Version)",
+            "artists": [{ "name": "Thalía" }],
+            "album_type": "album",
+            "release_date": "2012-11-19"
+          }
+        },
+        {
+          "name": "Blue Christmas",
+          "album": {
+            "title": "Christmas",
+            "artists": [{ "name": "Michael Bublé" }],
+            "album_type": "album",
+            "release_date": "2011-10-14"
+          }
+        },
+        {
+          "name": "You'll Never Find Another Love like Mine (with Laura Pausini) - Live",
+          "album": {
+            "title": "20 Grandes Exitos (Latin America)",
+            "artists": [{ "name": "Laura Pausini" }],
+            "album_type": "album",
+            "release_date": "2013-11-12"
+          }
+        },
+        {
+          "name": "Baby It's Cold Outside (duet with Michael Bublé)",
+          "album": {
+            "title": "Holiday Wishes",
+            "artists": [{ "name": "Idina Menzel" }],
+            "album_type": "album",
+            "release_date": "2014-10-10"
+          }
+        },
+        {
+          "name": "Lovers (Title Song)",
+          "album": {
+            "title": "House of Flying Daggers (Original Motion Picture Soundtrack)",
+            "artists": [{ "name": "Shigeru Umebayashi, Kathleen Battle" }],
+            "album_type": "album",
+            "release_date": "2004-11-15"
+          }
+        },
+        {
+          "name": "不為誰而作的歌",
+          "album": {
+            "title": "\"和自己對話\" 實驗專輯",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2015-12-18"
+          }
+        },
+        {
+          "name": "江南",
+          "album": {
+            "title": "林俊傑2003年-2010年作品精選集",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2016-01-08"
+          }
+        },
+        {
+          "name": "曹操",
+          "album": {
+            "title": "林俊傑2003年-2010年作品精選集",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2016-01-08"
+          }
+        },
+        {
+          "name": "可惜沒如果",
+          "album": {
+            "title": "新地球",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2014-12-27"
+          }
+        },
+        {
+          "name": "殺手",
+          "album": {
+            "title": "林俊傑2003年-2010年作品精選集",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2016-01-08"
+          }
+        },
+        {
+          "name": "黑鍵",
+          "album": {
+            "title": "新地球 - 人 (Special Edition)",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2015-01-29"
+          }
+        },
+        {
+          "name": "一眼萬年",
+          "album": {
+            "title": "林俊傑2003年-2010年作品精選集",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2016-01-08"
+          }
+        },
+        {
+          "name": "Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "Heathens",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "Gangsta",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "You Don't Own Me",
+          "album": {
+            "title": "20th Century Masters: The Millennium Collection: Best Of Lesley Gore",
+            "artists": [{ "name": "Lesley Gore" }],
+            "album_type": "compilation",
+            "release_date": "2000-01-01"
+          }
+        },
+        {
+          "name": "Without Me",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "I'd Rather Go Blind",
+          "album": {
+            "title": "Tell Mama The Complete Muscle Shoals Sessions",
+            "artists": [{ "name": "Etta James" }],
+            "album_type": "album",
+            "release_date": "1968-08-21"
+          }
+        },
+        {
+          "name": "House of Gold",
+          "album": {
+            "title": "Vessel",
+            "artists": [{ "name": "Twenty One Pilots" }],
+            "album_type": "album",
+            "release_date": "2013-01-08"
+          }
+        },
+        {
+          "name": "Tear in My Heart",
+          "album": {
+            "title": "Blurryface",
+            "artists": [{ "name": "Twenty One Pilots" }],
+            "album_type": "album",
+            "release_date": "2015-05-15"
+          }
+        },
+        {
+          "name": "You Don't Own Me",
+          "album": {
+            "title": "You Don't Own Me",
+            "artists": [{ "name": "SAYGRACE" }],
+            "album_type": "single",
+            "release_date": "2015-03-17"
+          }
+        },
+        {
+          "name": "Know Better",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "Standing in the Rain (with Mark Ronson & Dan Auerbach)",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "Wreak Havoc",
+          "album": {
+            "title": "Suicide Squad: The Album",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2016-08-05"
+          }
+        },
+        {
+          "name": "Demons",
+          "album": {
+            "title": "Night Visions (Deluxe)",
+            "artists": [{ "name": "Imagine Dragons" }],
+            "album_type": "album",
+            "release_date": "2014-09-29"
+          }
+        },
+        {
+          "name": "Can't Take My Eyes off You",
+          "album": {
+            "title": "The Very Best of Frankie Valli & The 4 Seasons",
+            "artists": [{ "name": "Frankie Valli & The Four Seasons" }],
+            "album_type": "compilation",
+            "release_date": "2003-01-14"
+          }
+        },
+        {
+          "name": "At Last",
+          "album": {
+            "title": "At Last!",
+            "artists": [{ "name": "Etta James" }],
+            "album_type": "album",
+            "release_date": "1960"
+          }
+        },
+        {
+          "name": "新地球",
+          "album": {
+            "title": "新地球 - 人 (Special Edition)",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2015-01-29"
+          }
+        },
+        {
+          "name": "編號89757",
+          "album": {
+            "title": "林俊傑2003年-2010年作品精選集",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2016-01-08"
+          }
+        },
+        {
+          "name": "只要有你的地方 - 晚安版",
+          "album": {
+            "title": "\"和自己對話\" 實驗專輯",
+            "artists": [{ "name": "JJ Lin" }],
+            "album_type": "album",
+            "release_date": "2015-12-18"
+          }
+        },
+        {
+          "name": "告白氣球",
+          "album": {
+            "title": "周杰倫的床邊故事",
+            "artists": [{ "name": "Jay Chou" }],
+            "album_type": "album",
+            "release_date": "2016-06-24"
+          }
+        },
+        {
+          "name": "晴天",
+          "album": {
+            "title": "葉惠美",
+            "artists": [{ "name": "Jay Chou" }],
+            "album_type": "album",
+            "release_date": "2003-07-31"
+          }
+        },
+        {
+          "name": "髮如雪",
+          "album": {
+            "title": "11月的蕭邦",
+            "artists": [{ "name": "Jay Chou" }],
+            "album_type": "album",
+            "release_date": "2005-11-01"
+          }
+        },
+        {
+          "name": "彩虹",
+          "album": {
+            "title": "我很忙",
+            "artists": [{ "name": "Jay Chou" }],
+            "album_type": "album",
+            "release_date": "2008-03-10"
+          }
+        },
+        {
+          "name": "Lotto",
+          "album": {
+            "title": "LOTTO - The 3rd Album Repackage",
+            "artists": [{ "name": "EXO" }],
+            "album_type": "album",
+            "release_date": "2016-08-18"
+          }
+        },
+        {
+          "name": "Cau Vong Sau Mua",
+          "album": {
+            "title": "Cau Vong Sau Mua",
+            "artists": [{ "name": "Cao Thai Son" }],
+            "album_type": "album",
+            "release_date": "2010-01-01"
+          }
+        },
+        {
+          "name": "Độc Thoại",
+          "album": {
+            "title": "Tuyển Tập Các Bài Hát Hay Nhất Của Tuấn Hưng",
+            "artists": [{ "name": "Nhạc Việt" }],
+            "album_type": "album",
+            "release_date": "2015-07-07"
+          }
+        },
+        {
+          "name": "Nắm Lấy Tay Anh",
+          "album": {
+            "title": "Những Ca Khúc Hay Nhất Của Tuấn Hưng Phần 2",
+            "artists": [{ "name": "Tuấn Hưng" }],
+            "album_type": "single",
+            "release_date": "2017-01-23"
+          }
+        },
+        {
+          "name": "Tim Lai Bau Troi",
+          "album": {
+            "title": "Tim Lai Bau Troi",
+            "artists": [{ "name": "Tuấn Hưng" }],
+            "album_type": "album",
+            "release_date": "2012-02-27"
+          }
+        },
+        {
+          "name": "Hay Cho Anh Ben Em",
+          "album": {
+            "title": "Doai Hoai Qua Khu",
+            "artists": [{ "name": "Bang Cuong" }],
+            "album_type": "album",
+            "release_date": "2010-01-01"
+          }
+        },
+        {
+          "name": "Doi Thay",
+          "album": {
+            "title": "Doi Thay",
+            "artists": [{ "name": "Hồ Quang Hiếu" }],
+            "album_type": "album",
+            "release_date": "2016-08-22"
+          }
+        },
+        {
+          "name": "Hoi Nguoi Tinh",
+          "album": {
+            "title": "Tra No Tinh Xa",
+            "artists": [{ "name": "Y Phuong" }],
+            "album_type": "album",
+            "release_date": "2006-06-01"
+          }
+        },
+        {
+          "name": "Bọt Biển",
+          "album": {
+            "title": "Trả Nợ Tình Xa",
+            "artists": [{ "name": "Elvis Phuong" }],
+            "album_type": "album",
+            "release_date": "1998-06-25"
+          }
+        },
+        {
+          "name": "Đừng Trách Gì Nhau",
+          "album": {
+            "title": "Trả Nợ Tình Xa",
+            "artists": [{ "name": "Elvis Phuong" }],
+            "album_type": "album",
+            "release_date": "1998-06-25"
+          }
+        },
+        {
+          "name": "Tra No Tinh Xa",
+          "album": {
+            "title": "Tra No Tinh Xa",
+            "artists": [{ "name": "Y Phuong" }],
+            "album_type": "album",
+            "release_date": "2006-06-01"
+          }
+        },
+        {
+          "name": "Chac Ai Do Se Ve",
+          "album": {
+            "title": "Chac Ai Do Se Ve",
+            "artists": [{ "name": "Nhac Tre" }],
+            "album_type": "single",
+            "release_date": "2015-07-02"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "single",
+            "release_date": "2016-12-31"
+          }
+        },
+        {
+          "name": "Cầu Vồng Sau Mưa",
+          "album": {
+            "title": "The Best of Lâm Chấn Kiệt",
+            "artists": [{ "name": "Lam Chan Kiet" }],
+            "album_type": "album",
+            "release_date": "2016-04-12"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "single",
+            "release_date": "2015-01-10"
+          }
+        },
+        {
+          "name": "Đất Nước",
+          "album": {
+            "title": "The Best Of Lê Xuân Hảo",
+            "artists": [{ "name": "Le Xuan Hao" }],
+            "album_type": "compilation",
+            "release_date": "2016-05-10"
+          }
+        },
+        {
+          "name": "Giat Minh Trong Dem",
+          "album": {
+            "title": "Se Khong Con Nua",
+            "artists": [{ "name": "Tuấn Hưng" }],
+            "album_type": "album",
+            "release_date": "2013-06-02"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "single",
+            "release_date": "2016-07-13"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2017-02-02"
+          }
+        },
+        {
+          "name": "Thu Cuoi - Mr.T ft. Yanbi ft. Hang BingBoong",
+          "album": {
+            "title": "The best of Rap Viet 2012",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2012-11-17"
+          }
+        },
+        {
+          "name": "Neu Nhu Anh Den",
+          "album": {
+            "title": "Hay Mim Cuoi",
+            "artists": [{ "name": "Van Mai Huong" }],
+            "album_type": "album",
+            "release_date": "2013-07-19"
+          }
+        },
+        {
+          "name": "Scars To Your Beautiful",
+          "album": {
+            "title": "Know-It-All (Deluxe)",
+            "artists": [{ "name": "Alessia Cara" }],
+            "album_type": "album",
+            "release_date": "2015-11-13"
+          }
+        },
+        {
+          "name": "How Far I'll Go - From \"Moana\"",
+          "album": {
+            "title": "How Far I'll Go (From \"Moana\")",
+            "artists": [{ "name": "Alessia Cara" }],
+            "album_type": "single",
+            "release_date": "2016-10-28"
+          }
+        },
+        {
+          "name": "Here",
+          "album": {
+            "title": "Know-It-All (Deluxe)",
+            "artists": [{ "name": "Alessia Cara" }],
+            "album_type": "album",
+            "release_date": "2015-11-13"
+          }
+        },
+        {
+          "name": "How Does A Moment Last Forever",
+          "album": {
+            "title": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-03-10"
+          }
+        },
+        {
+          "name": "PILLOWTALK",
+          "album": {
+            "title": "Mind Of Mine (Deluxe Edition)",
+            "artists": [{ "name": "ZAYN" }],
+            "album_type": "album",
+            "release_date": "2016-03-25"
+          }
+        },
+        {
+          "name": "Million Reasons",
+          "album": {
+            "title": "Joanne (Deluxe)",
+            "artists": [{ "name": "Lady Gaga" }],
+            "album_type": "album",
+            "release_date": "2016-10-21"
+          }
+        },
+        {
+          "name": "Noi Dau Xot Xa",
+          "album": {
+            "title": "Ngủ Đi",
+            "artists": [{ "name": "Nhiều người hát" }],
+            "album_type": "album",
+            "release_date": "2012-06-11"
+          }
+        },
+        {
+          "name": "Marry Me",
+          "album": {
+            "title": "Talk Dirty",
+            "artists": [{ "name": "Jason Derulo" }],
+            "album_type": "album",
+            "release_date": "2013-09-10"
+          }
+        },
+        {
+          "name": "Marvin Gaye",
+          "album": {
+            "title": "Nine Track Mind (Deluxe Edition)",
+            "artists": [{ "name": "Charlie Puth" }],
+            "album_type": "album",
+            "release_date": "2016-11-11"
+          }
+        },
+        {
+          "name": "Marvin Gaye - Boehm Remix",
+          "album": {
+            "title": "Marvin Gaye (Boehm Remix)",
+            "artists": [{ "name": "Charlie Puth" }],
+            "album_type": "single",
+            "release_date": "2015-08-15"
+          }
+        },
+        {
+          "name": "Small Doses",
+          "album": {
+            "title": "All Your Fault: Pt. 1",
+            "artists": [{ "name": "Bebe Rexha" }],
+            "album_type": "single",
+            "release_date": "2017-02-16"
+          }
+        },
+        {
+          "name": "Once Upon a December (From The \"Anastasia\" Soundtrack)",
+          "album": {
+            "title": "The Essential Liz Callaway",
+            "artists": [{ "name": "Liz Callaway" }],
+            "album_type": "album",
+            "release_date": "2015-11-24"
+          }
+        },
+        {
+          "name": "999 Doa Hong",
+          "album": {
+            "title": "Hue Tinh Yeu Cua Toi",
+            "artists": [{ "name": "Cẩm Ly" }],
+            "album_type": "album",
+            "release_date": "2010-03-03"
+          }
+        },
+        {
+          "name": "Ngoi Sao Con Lai",
+          "album": {
+            "title": "Giac Mo Ke Da Tinh",
+            "artists": [{ "name": "Tuấn Hưng" }],
+            "album_type": "album",
+            "release_date": "2015-01-10"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2016-05-23"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "single",
+            "release_date": "2015-11-20"
+          }
+        },
+        {
+          "name": "Hôn Nhau Lần Cuối",
+          "album": {
+            "title": "Last Valentine",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2015-10-01"
+          }
+        },
+        {
+          "name": "Cơn Mơ Băng Giá",
+          "album": {
+            "title": "Cơn Mơ Băng Giá",
+            "artists": [{ "name": "Bằng Kiều" }],
+            "album_type": "single",
+            "release_date": "2015-10-23"
+          }
+        },
+        {
+          "name": "Phai Dau Cuoc Tinh",
+          "album": {
+            "title": "Tinh Nhu La Bay Xa",
+            "artists": [{ "name": "Nguyen Hong An" }],
+            "album_type": "album",
+            "release_date": "2017-06-01"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "single",
+            "release_date": "2015-11-20"
+          }
+        },
+        {
+          "name": "Con Mua Ngang Qua",
+          "album": {
+            "title": "Con Mua Ngang Qua (Single)",
+            "artists": [{ "name": "Sơn Tùng M-TP" }],
+            "album_type": "single",
+            "release_date": "2015-01-10"
+          }
+        },
+        {
+          "name": "Lien Khuc Rieng Mot Goc Troi, Thanh Pho Buon, Em La Tat Ca, Mong Duoi Hoa",
+          "album": {
+            "title": "Cu Tuong Con Trong Tay - Bac Tinh",
+            "artists": [{ "name": "Che Linh" }, { "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2017-07-19"
+          }
+        },
+        {
+          "name": "Linh Hon Tuong Da",
+          "album": {
+            "title": "Cu Tuong Con Trong Tay - Bac Tinh",
+            "artists": [{ "name": "Che Linh" }, { "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2017-07-19"
+          }
+        },
+        {
+          "name": "Duyên Kiếp",
+          "album": {
+            "title": "Tuyệt Phẩm Song Ca Hoàng Vĩnh Nam",
+            "artists": [{ "name": "Hoang Vinh Nam" }],
+            "album_type": "album",
+            "release_date": "2015-10-01"
+          }
+        },
+        {
+          "name": "",
+          "album": {
+            "title": "",
+            "artists": [{ "name": "" }],
+            "album_type": "album",
+            "release_date": "2005-09-18"
+          }
+        },
+        {
+          "name": "Dinh Menh",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "LK Cho Nguoi Tinh Lo / Nhung Gi Cho Em",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "LK Thoi / Ao Anh",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "Hai Trai Tim Vang",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "LK Neu Xuan Nay Vang Anh / Khuc Nhac Ngay Xuan",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "Vong Tay Nguoi Ay",
+          "album": {
+            "title": "Tu Tinh Que Huong II - Live Show (Part 2)",
+            "artists": [{ "name": "Cẩm Ly" }],
+            "album_type": "album",
+            "release_date": "2012-01-13"
+          }
+        },
+        {
+          "name": "Ngày Hạnh Phúc",
+          "album": {
+            "title": "Hát Cho Người Tình Nhớ",
+            "artists": [{ "name": "Cẩm Ly" }],
+            "album_type": "album",
+            "release_date": "2014-08-31"
+          }
+        },
+        {
+          "name": "Tinh Don Phuong",
+          "album": {
+            "title": "Katy Katy",
+            "artists": [{ "name": "Lam Truong" }],
+            "album_type": "album",
+            "release_date": "2007"
+          }
+        },
+        {
+          "name": "Tinh Phai",
+          "album": {
+            "title": "Katy Katy",
+            "artists": [{ "name": "Lam Truong" }],
+            "album_type": "album",
+            "release_date": "2007"
+          }
+        },
+        {
+          "name": "Chin Tram Chin Chin Doa Hong",
+          "album": {
+            "title": "Katy Katy",
+            "artists": [{ "name": "Lam Truong" }],
+            "album_type": "album",
+            "release_date": "2007"
+          }
+        },
+        {
+          "name": "Tuyet lanh _ Lam Truong",
+          "album": {
+            "title": "Em va Toi",
+            "artists": [{ "name": "Ca Yeu" }],
+            "album_type": "album",
+            "release_date": "2013-04-16"
+          }
+        },
+        {
+          "name": "I'm Your Man - Live in Dublin",
+          "album": {
+            "title": "Live In Dublin",
+            "artists": [{ "name": "Leonard Cohen" }],
+            "album_type": "album",
+            "release_date": "2014-11-28"
+          }
+        },
+        {
+          "name": "A Time For Us",
+          "album": {
+            "title": "Gold",
+            "artists": [{ "name": "Engelbert Humperdinck" }],
+            "album_type": "album",
+            "release_date": "2005-01-01"
+          }
+        },
+        {
+          "name": "Hallelujah",
+          "album": {
+            "title": "Various Positions",
+            "artists": [{ "name": "Leonard Cohen" }],
+            "album_type": "album",
+            "release_date": "1984-12-11"
+          }
+        },
+        {
+          "name": "There's A Kind Of Hush (All Over The World)",
+          "album": {
+            "title": "Gold",
+            "artists": [{ "name": "Engelbert Humperdinck" }],
+            "album_type": "album",
+            "release_date": "2005-01-01"
+          }
+        },
+        {
+          "name": "You Can't Hurry Love - 2016 Remaster",
+          "album": {
+            "title": "Hello, I Must Be Going! (Deluxe Edition)",
+            "artists": [{ "name": "Phil Collins" }],
+            "album_type": "album",
+            "release_date": "1982-11-05"
+          }
+        },
+        {
+          "name": "Somethin' Stupid",
+          "album": {
+            "title": "Swing When You're Winning",
+            "artists": [{ "name": "Robbie Williams" }],
+            "album_type": "album",
+            "release_date": "2001-11-19"
+          }
+        },
+        {
+          "name": "Eternal Flame",
+          "album": {
+            "title": "The Essential Bangles",
+            "artists": [{ "name": "The Bangles" }],
+            "album_type": "compilation",
+            "release_date": "2004"
+          }
+        },
+        {
+          "name": "Can't Get Used to Losing You - Single Version",
+          "album": {
+            "title": "Andy Williams' Greatest Hits",
+            "artists": [{ "name": "Andy Williams" }],
+            "album_type": "compilation",
+            "release_date": "1970"
+          }
+        },
+        {
+          "name": "Speak Softly Love - Love Theme from \"The Godfather\"",
+          "album": {
+            "title": "Greatest Hits Volume II",
+            "artists": [{ "name": "Andy Williams" }],
+            "album_type": "compilation",
+            "release_date": "1973"
+          }
+        },
+        {
+          "name": "Where Do I Begin - Love Theme from \"Love Story\"",
+          "album": {
+            "title": "Love Story",
+            "artists": [{ "name": "Andy Williams" }],
+            "album_type": "album",
+            "release_date": "1971"
+          }
+        },
+        {
+          "name": "Summer Kisses, Winter Tears",
+          "album": {
+            "title": "Elvis for Everyone!",
+            "artists": [{ "name": "Elvis Presley" }],
+            "album_type": "album",
+            "release_date": "1965-07-19"
+          }
+        },
+        {
+          "name": "Let Me Try Again (Laisse Moi le Temps)",
+          "album": {
+            "title": "Ol' Blue Eyes Is Back",
+            "artists": [{ "name": "Frank Sinatra" }],
+            "album_type": "album",
+            "release_date": "1973"
+          }
+        },
+        {
+          "name": "Digital Bounce",
+          "album": {
+            "title": "Digital Bounce",
+            "artists": [{ "name": "SE7EN" }],
+            "album_type": "album",
+            "release_date": "2010"
+          }
+        },
+        {
+          "name": "I Surrender",
+          "album": {
+            "title": "A New Day Has Come",
+            "artists": [{ "name": "Céline Dion" }],
+            "album_type": "album",
+            "release_date": "2002"
+          }
+        },
+        {
+          "name": "Lang Tham",
+          "album": {
+            "title": "Dau Ba Cham",
+            "artists": [{ "name": "Noo Phước Thịnh" }],
+            "album_type": "album",
+            "release_date": "2010-01-01"
+          }
+        },
+        {
+          "name": "Ca Dao Me",
+          "album": {
+            "title": "Ca Dao Me",
+            "artists": [{ "name": "Khánh Ly" }],
+            "album_type": "album",
+            "release_date": "1998"
+          }
+        },
+        {
+          "name": "Nguoi Nhu Co Quen",
+          "album": {
+            "title": "Hat Cho Ky Niem",
+            "artists": [{ "name": "Tuấn Ngọc" }],
+            "album_type": "album",
+            "release_date": "2003"
+          }
+        },
+        {
+          "name": "Toi Dua Em Sang Song",
+          "album": {
+            "title": "Mua Hong",
+            "artists": [{ "name": "Khánh Ly" }],
+            "album_type": "album",
+            "release_date": "1989"
+          }
+        },
+        {
+          "name": "La Vie en Rose - DJ Antoine Vs. Mad Mark 2k17 Mix",
+          "album": {
+            "title": "La Vie en Rose",
+            "artists": [{ "name": "DJ Antoine" }],
+            "album_type": "single",
+            "release_date": "2017-04-28"
+          }
+        },
+        {
+          "name": "Whenever (feat. Conor Maynard)",
+          "album": {
+            "title": "Whenever (feat. Conor Maynard)",
+            "artists": [
+              { "name": "Kris Kross Amsterdam" },
+              { "name": "The Boy Next Door" },
+              { "name": "Conor Maynard" }
+            ],
+            "album_type": "single",
+            "release_date": "2018-06-22"
+          }
+        },
+        {
+          "name": "Monsta",
+          "album": {
+            "title": "Schöne Neue Welt",
+            "artists": [{ "name": "Culcha Candela" }],
+            "album_type": "album",
+            "release_date": "2009-08-28"
+          }
+        },
+        {
+          "name": "DUELE EL CORAZON (English Version)",
+          "album": {
+            "title": "DUELE EL CORAZON (English Version)",
+            "artists": [{ "name": "Enrique Iglesias" }],
+            "album_type": "single",
+            "release_date": "2016-07-19"
+          }
+        },
+        {
+          "name": "SUBEME LA RADIO REMIX",
+          "album": {
+            "title": "SUBEME LA RADIO REMIX",
+            "artists": [
+              { "name": "Enrique Iglesias" },
+              { "name": "Sean Paul" }
+            ],
+            "album_type": "single",
+            "release_date": "2017-07-23"
+          }
+        },
+        {
+          "name": "SUBEME LA RADIO REMIX (feat. Descemer Bueno & Jacob Forever)",
+          "album": {
+            "title": "SUBEME LA RADIO REMIX (feat. Descemer Bueno & Jacob Forever)",
+            "artists": [{ "name": "Enrique Iglesias" }],
+            "album_type": "single",
+            "release_date": "2017-04-21"
+          }
+        },
+        {
+          "name": "EL BAÑO (feat. Bad Bunny)",
+          "album": {
+            "title": "EL BAÑO (feat. Bad Bunny)",
+            "artists": [{ "name": "Enrique Iglesias" }],
+            "album_type": "single",
+            "release_date": "2018-01-12"
+          }
+        },
+        {
+          "name": "Stand by Me",
+          "album": {
+            "title": "Prince Royce",
+            "artists": [{ "name": "Prince Royce" }],
+            "album_type": "album",
+            "release_date": "2010"
+          }
+        },
+        {
+          "name": "My Songs Know What You Did In The Dark (Light Em Up)",
+          "album": {
+            "title": "Save Rock And Roll",
+            "artists": [{ "name": "Fall Out Boy" }],
+            "album_type": "album",
+            "release_date": "2013-01-01"
+          }
+        },
+        {
+          "name": "Thuong Hoai Ngan Nam",
+          "album": {
+            "title": "Xin Diu Nhau Den Tinh Yeu",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2017-02-23"
+          }
+        },
+        {
+          "name": "Tinh Don Phuong",
+          "album": {
+            "title": "Katy Katy",
+            "artists": [{ "name": "Lam Truong" }],
+            "album_type": "album",
+            "release_date": "2007"
+          }
+        },
+        {
+          "name": "Contagious",
+          "album": {
+            "title": "Eternal",
+            "artists": [{ "name": "The Isley Brothers" }],
+            "album_type": "album",
+            "release_date": "2001-01-01"
+          }
+        },
+        {
+          "name": "Just A Kiss",
+          "album": {
+            "title": "Own The Night",
+            "artists": [{ "name": "Lady Antebellum" }],
+            "album_type": "album",
+            "release_date": "2011-01-01"
+          }
+        },
+        {
+          "name": "Amazed",
+          "album": {
+            "title": "Playlist: The Very Best Of Lonestar",
+            "artists": [{ "name": "Lonestar" }],
+            "album_type": "compilation",
+            "release_date": "1995"
+          }
+        },
+        {
+          "name": "Impossible - Main",
+          "album": {
+            "title": "No Gravity",
+            "artists": [{ "name": "Shontelle" }],
+            "album_type": "album",
+            "release_date": "2010-01-01"
+          }
+        },
+        {
+          "name": "Perhaps, Perhaps, Perhaps",
+          "album": {
+            "title": "With A Smile And A Song",
+            "artists": [{ "name": "Doris Day" }],
+            "album_type": "album",
+            "release_date": "1948"
+          }
+        },
+        {
+          "name": "Take My Breath Away - Love Theme from \"Top Gun\"",
+          "album": {
+            "title": "Top Gun Deluxe Edition",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "album",
+            "release_date": "2006-01-01"
+          }
+        },
+        {
+          "name": "Un-Break My Heart",
+          "album": {
+            "title": "Secrets",
+            "artists": [{ "name": "Toni Braxton" }],
+            "album_type": "album",
+            "release_date": "1996-06-18"
+          }
+        },
+        {
+          "name": "I'll Make Love To You",
+          "album": {
+            "title": "End Of The Road: The Collection",
+            "artists": [{ "name": "Boyz II Men" }],
+            "album_type": "compilation",
+            "release_date": "2011-01-01"
+          }
+        },
+        {
+          "name": "Knock Three Times",
+          "album": {
+            "title": "The Definitive Collection",
+            "artists": [{ "name": "Tony Orlando & Dawn" }],
+            "album_type": "album",
+            "release_date": "1973"
+          }
+        },
+        {
+          "name": "미인아 Bonamana",
+          "album": {
+            "title": "미인아 (Bonamana) - The 4th Album",
+            "artists": [{ "name": "SUPER JUNIOR" }],
+            "album_type": "album",
+            "release_date": "2010-05-13"
+          }
+        },
+        {
+          "name": "Lovey-Dovey",
+          "album": {
+            "title": "Funky Town",
+            "artists": [{ "name": "T-ara" }],
+            "album_type": "album",
+            "release_date": "2012-01-03"
+          }
+        },
+        {
+          "name": "Loner",
+          "album": {
+            "title": "Bluetory",
+            "artists": [{ "name": "CNBLUE" }],
+            "album_type": "single",
+            "release_date": "2010-01-14"
+          }
+        },
+        {
+          "name": "Nguoi Yeu Cua Linh",
+          "album": {
+            "title": "Sao Chua Thay Hoi Am",
+            "artists": [{ "name": "Hoang Oanh" }],
+            "album_type": "album",
+            "release_date": "2018-10-12"
+          }
+        },
+        {
+          "name": "A Time For Us",
+          "album": {
+            "title": "Engelbert Humperdinck",
+            "artists": [{ "name": "Engelbert Humperdinck" }],
+            "album_type": "album",
+            "release_date": "1969-12-06"
+          }
+        },
+        {
+          "name": "Sealed with a Kiss",
+          "album": {
+            "title": "The Best Of Bobby Vinton",
+            "artists": [{ "name": "Bobby Vinton" }],
+            "album_type": "album",
+            "release_date": "1962"
+          }
+        },
+        {
+          "name": "(Where Do I Begin) Love Story",
+          "album": {
+            "title": "Love Songs from Movies",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "name": "Take Good Care Of My Baby - 1990 Remastered",
+          "album": {
+            "title": "The Legendary Masters Series",
+            "artists": [{ "name": "Bobby Vee" }],
+            "album_type": "compilation",
+            "release_date": "2011-01-01"
+          }
+        },
+        {
+          "name": "In Dreams",
+          "album": {
+            "title": "In Dreams",
+            "artists": [{ "name": "Roy Orbison" }],
+            "album_type": "album",
+            "release_date": "1963-07"
+          }
+        },
+        {
+          "name": "Walkin' Back to Happiness",
+          "album": {
+            "title": "Helen Shapiro",
+            "artists": [{ "name": "Helen Shapiro" }],
+            "album_type": "album",
+            "release_date": "1990-09-17"
+          }
+        },
+        {
+          "name": "Downtown",
+          "album": {
+            "title": "Downtown: The Greatest Hits of Petula Clark",
+            "artists": [{ "name": "Petula Clark" }],
+            "album_type": "compilation",
+            "release_date": "1999"
+          }
+        },
+        {
+          "name": "Wherever Would I Be?",
+          "album": {
+            "title": "A Very Fine Love",
+            "artists": [{ "name": "Dusty Springfield" }],
+            "album_type": "album",
+            "release_date": "1995-05-31"
+          }
+        },
+        {
+          "name": "A Quiet Thing",
+          "album": {
+            "title": "The Essential John Gary",
+            "artists": [{ "name": "John Gary" }],
+            "album_type": "album",
+            "release_date": "2001-07-10"
+          }
+        },
+        {
+          "name": "So Sad (To Watch Good Love Go Bad)",
+          "album": {
+            "title": "The Very Best of The Everly Brothers",
+            "artists": [{ "name": "The Everly Brothers" }],
+            "album_type": "compilation",
+            "release_date": "1964-08-01"
+          }
+        },
+        {
+          "name": "I'm Into Something Good",
+          "album": {
+            "title": "Herman's Hermits Retrospective",
+            "artists": [{ "name": "Herman's Hermits" }],
+            "album_type": "album",
+            "release_date": "1966-01-01"
+          }
+        },
+        {
+          "name": "Comin' Home Baby",
+          "album": {
+            "title": "Comin' Home Baby",
+            "artists": [{ "name": "Mel Tormé" }],
+            "album_type": "album",
+            "release_date": "2005-02-08"
+          }
+        },
+        {
+          "name": "It's Hard To Say Goodbye",
+          "album": {
+            "title": "Duets",
+            "artists": [{ "name": "Paul Anka" }],
+            "album_type": "album",
+            "release_date": "2013-04-05"
+          }
+        },
+        {
+          "name": "Welcome to My World",
+          "album": {
+            "title": "The Essential Jim Reeves",
+            "artists": [{ "name": "Jim Reeves" }],
+            "album_type": "album",
+            "release_date": "1997-02-14"
+          }
+        },
+        {
+          "name": "Your Song - Acoustic Version",
+          "album": {
+            "title": "Love Songs from Movies",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "name": "Heaven Knows",
+          "album": {
+            "title": "20th Century Masters: The Millennium Collection: Best Of The Grass Roots",
+            "artists": [{ "name": "The Grass Roots" }],
+            "album_type": "compilation",
+            "release_date": "2001-01-01"
+          }
+        },
+        {
+          "name": "Beyond the Sea",
+          "album": {
+            "title": "Love Songs from Movies",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "name": "(Ummmm, Oh Yeah) Dearest",
+          "album": {
+            "title": "Giant",
+            "artists": [{ "name": "Buddy Holly" }],
+            "album_type": "album",
+            "release_date": "1969-01-01"
+          }
+        },
+        {
+          "name": "Blue Velvet",
+          "album": {
+            "title": "The Best Of Bobby Vinton",
+            "artists": [{ "name": "Bobby Vinton" }],
+            "album_type": "album",
+            "release_date": "1962"
+          }
+        },
+        {
+          "name": "All Alone Am I",
+          "album": {
+            "title": "All Alone Am I",
+            "artists": [{ "name": "Brenda Lee" }],
+            "album_type": "album",
+            "release_date": "1963-02-18"
+          }
+        },
+        {
+          "name": "Ocean Deep - 2002 Remaster",
+          "album": {
+            "title": "Silver",
+            "artists": [{ "name": "Cliff Richard" }],
+            "album_type": "album",
+            "release_date": "1983"
+          }
+        },
+        {
+          "name": "A Place In The Sun",
+          "album": {
+            "title": "The Last Waltz",
+            "artists": [{ "name": "Engelbert Humperdinck" }],
+            "album_type": "album",
+            "release_date": "1967-11-25"
+          }
+        },
+        {
+          "name": "Come Back to Sorrento",
+          "album": {
+            "title": "Sings The Great Italian Hits",
+            "artists": [{ "name": "Jerry Vale" }],
+            "album_type": "album",
+            "release_date": "1956"
+          }
+        },
+        {
+          "name": "Flamingo",
+          "album": {
+            "title": "Strange Enchantment",
+            "artists": [{ "name": "Vic Damone" }],
+            "album_type": "album",
+            "release_date": "2012-01-01"
+          }
+        },
+        {
+          "name": "On Moonlight Bay (with Paul Weston & His Orchestra & The Norman Luboff Choir)",
+          "album": {
+            "title": "With A Smile And A Song",
+            "artists": [{ "name": "Doris Day" }],
+            "album_type": "album",
+            "release_date": "1948"
+          }
+        },
+        {
+          "name": "What a Wonderful World",
+          "album": {
+            "title": "Love Songs from Movies",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "name": "Lucky Guy",
+          "album": {
+            "title": "Rhythm Of The Rain",
+            "artists": [{ "name": "The Cascades" }],
+            "album_type": "album",
+            "release_date": "1963"
+          }
+        },
+        {
+          "name": "Diamonds Are Forever",
+          "album": {
+            "title": "Let Me Sing And I'm Happy",
+            "artists": [{ "name": "Shirley Bassey" }],
+            "album_type": "album",
+            "release_date": "1998"
+          }
+        },
+        {
+          "name": "Wake up Little Susie",
+          "album": {
+            "title": "The Very Best of The Everly Brothers",
+            "artists": [{ "name": "The Everly Brothers" }],
+            "album_type": "compilation",
+            "release_date": "1964-08-01"
+          }
+        },
+        {
+          "name": "Top Hat, White Tie And Tales",
+          "album": {
+            "title": "Mel Tormé Sings Fred Astaire (Original Recording Remastered 2013)",
+            "artists": [{ "name": "Mel Tormé" }],
+            "album_type": "album",
+            "release_date": "2014-01-28"
+          }
+        },
+        {
+          "name": "As Time Goes By",
+          "album": {
+            "title": "Love Songs from Movies",
+            "artists": [{ "name": "Various Artists" }],
+            "album_type": "compilation",
+            "release_date": "2018-06-28"
+          }
+        },
+        {
+          "name": "Baby Lover",
+          "album": {
+            "title": "The Pye Anthology",
+            "artists": [{ "name": "Petula Clark" }],
+            "album_type": "compilation",
+            "release_date": "2014-09-29"
+          }
+        },
+        {
+          "name": "You're My World - 2003 Remaster",
+          "album": {
+            "title": "Beginnings",
+            "artists": [{ "name": "Cilla Black" }],
+            "album_type": "album",
+            "release_date": "2003"
+          }
+        },
+        {
+          "name": "Guantanamera",
+          "album": {
+            "title": "Trini López",
+            "artists": [{ "name": "Trini Lopez" }],
+            "album_type": "album",
+            "release_date": "2005-01-01"
+          }
+        },
+        {
+          "name": "Only the Lonely",
+          "album": {
+            "title": "Sings Lonely and Blue",
+            "artists": [{ "name": "Roy Orbison" }],
+            "album_type": "album",
+            "release_date": "1961"
+          }
+        },
+        {
+          "name": "Sorry Suzanne",
+          "album": {
+            "title": "\"Epic Anthology\": From The Original Master Tapes!",
+            "artists": [{ "name": "The Hollies" }],
+            "album_type": "compilation",
+            "release_date": "1972"
+          }
+        },
+        {
+          "name": "Do That To Me One More Time",
+          "album": {
+            "title": "Make Your Move",
+            "artists": [{ "name": "Captain & Tennille" }],
+            "album_type": "album",
+            "release_date": "1979-01-01"
+          }
+        },
+        {
+          "name": "SUPERMAN",
+          "album": {
+            "title": "The 5th Repackage 'Mr.Simple'",
+            "artists": [{ "name": "SUPER JUNIOR" }],
+            "album_type": "album",
+            "release_date": "2011-09-19"
+          }
+        },
+        {
+          "name": "Mr. Simple",
+          "album": {
+            "title": "Mr. Simple",
+            "artists": [{ "name": "SUPER JUNIOR" }],
+            "album_type": "album",
+            "release_date": "2011-08-02"
+          }
+        },
+        {
+          "name": "You're My World",
+          "album": {
+            "title": "Tom Jones Sings She's A Lady",
+            "artists": [{ "name": "Tom Jones" }],
+            "album_type": "album",
+            "release_date": "1971-05-01"
+          }
+        },
+        {
+          "name": "She's A Lady",
+          "album": {
+            "title": "Duets",
+            "artists": [{ "name": "Paul Anka" }],
+            "album_type": "album",
+            "release_date": "2013-04-05"
+          }
+        },
+        {
+          "name": "Help Yourself",
+          "album": {
+            "title": "The Best Of ... Tom Jones",
+            "artists": [{ "name": "Tom Jones" }],
+            "album_type": "compilation",
+            "release_date": "1997-10-13"
+          }
+        },
+        {
+          "name": "Think I'm In Love Again",
+          "album": {
+            "title": "Duets",
+            "artists": [{ "name": "Paul Anka" }],
+            "album_type": "album",
+            "release_date": "2013-04-05"
+          }
+        },
+        {
+          "name": "Me",
+          "album": {
+            "title": "Me",
+            "artists": [{ "name": "Empire Cast" }],
+            "album_type": "single",
+            "release_date": "2016-10-07"
+          }
+        },
+        {
+          "name": "The Greatest (feat. Ammon Chung)",
+          "album": {
+            "title": "The Greatest (feat. Ammon Chung)",
+            "artists": [{ "name": "Madilyn Paige" }],
+            "album_type": "single",
+            "release_date": "2016-09-28"
+          }
+        }
+      ],
+      "track_count": 227
+    }
+  ]
+}
